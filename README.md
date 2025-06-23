@@ -47,9 +47,9 @@ mv results results.bk
 
 ## Results
 
-Machine: Apple M1 Pro (2021 14-inch MacBook Pro)
-
-OS: macOS 14.5
+- CPU: 2 sockets of AMD EPYC 7643 48-Core Processor, 192 vCPU
+- OS: Ubuntu 22.04.5 LTS, Kernel 5.15.0-138-generic
+- Rust: rustc 1.87.0 (17067e9ac 2025-05-09)
 
 See the `results/` directory.
 
