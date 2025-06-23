@@ -476,7 +476,7 @@ Latency
 <polyline fill="none" opacity="1" stroke="#FF00FF" stroke-width="1" points="80,402 82,405 87,404 97,379 107,385 117,381 137,366 157,346 197,305 237,251 318,226 398,202 559,56 "/>
 <polyline fill="none" opacity="1" stroke="#00FFFF" stroke-width="1" points="80,328 82,39 87,36 97,36 107,36 117,36 137,36 157,36 197,36 237,36 318,36 398,36 559,36 "/>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="80,384 82,371 87,344 97,327 107,308 117,127 137,36 157,36 197,36 237,36 318,36 398,36 559,36 "/>
-<polyline fill="none" opacity="1" stroke="#FFFF00" stroke-width="1" points="80,404 82,401 87,400 97,376 107,373 117,373 137,369 157,354 197,345 237,343 318,235 398,310 559,244 "/>
+<polyline fill="none" opacity="1" stroke="#FFC107" stroke-width="1" points="80,404 82,401 87,400 97,376 107,373 117,373 137,369 157,354 197,345 237,343 318,235 398,310 559,244 "/>
 <rect x="85" y="41" width="144" height="128" opacity="0.8" fill="#FFFFFF" stroke="none"/>
 <rect x="85" y="41" width="144" height="128" opacity="1" fill="none" stroke="#000000"/>
 <text x="125" y="51" dy="0.76em" text-anchor="start" font-family="Fira Code" font-size="10.483870967741936" opacity="1" fill="#000000">
@@ -506,5 +506,5 @@ SccMap
 <polyline fill="none" opacity="1" stroke="#FF00FF" stroke-width="1" points="95,105 115,105 "/>
 <polyline fill="none" opacity="1" stroke="#00FFFF" stroke-width="1" points="95,121 115,121 "/>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="95,137 115,137 "/>
-<polyline fill="none" opacity="1" stroke="#FFFF00" stroke-width="1" points="95,154 115,154 "/>
+<polyline fill="none" opacity="1" stroke="#FFC107" stroke-width="1" points="95,154 115,154 "/>
 </svg>

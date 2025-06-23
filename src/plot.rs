@@ -1,6 +1,7 @@
 use std::{collections::BTreeMap, error::Error, io, path::PathBuf, time::Duration};
 
 use plotters::prelude::*;
+use plotters::prelude::full_palette::AMBER;
 use structopt::StructOpt;
 
 use crate::record::Record;
@@ -50,7 +51,7 @@ fn group_data(records: Vec<Record>) -> Groups {
     groups
 }
 
-static COLORS: &[RGBColor] = &[BLUE, RED, GREEN, MAGENTA, CYAN, BLACK, YELLOW];
+static COLORS: &[RGBColor] = &[BLUE, RED, GREEN, MAGENTA, CYAN, BLACK, AMBER];
 
 fn plot_throughput(options: &Options, groups: &Groups) -> Result<(), Box<dyn Error>> {
     let path = format!("{}/{}.throughput.svg", options.dir.display(), options.name);

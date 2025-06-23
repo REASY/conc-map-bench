@@ -396,7 +396,7 @@ Throughput
 <polyline fill="none" opacity="1" stroke="#FF00FF" stroke-width="1" points="80,416 82,399 87,371 97,371 107,329 117,308 137,291 157,288 197,288 237,297 318,256 398,222 559,240 "/>
 <polyline fill="none" opacity="1" stroke="#00FFFF" stroke-width="1" points="80,426 82,428 87,428 97,428 107,428 117,428 137,428 157,428 197,429 237,429 318,429 398,429 559,429 "/>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="80,421 82,417 87,412 97,401 107,393 117,410 137,412 157,409 197,412 237,407 318,408 398,403 559,404 "/>
-<polyline fill="none" opacity="1" stroke="#FFFF00" stroke-width="1" points="80,415 82,404 87,380 97,375 107,351 117,325 137,283 157,274 197,220 237,157 318,248 398,36 559,49 "/>
+<polyline fill="none" opacity="1" stroke="#FFC107" stroke-width="1" points="80,415 82,404 87,380 97,375 107,351 117,325 137,283 157,274 197,220 237,157 318,248 398,36 559,49 "/>
 <rect x="85" y="41" width="144" height="128" opacity="0.8" fill="#FFFFFF" stroke="none"/>
 <rect x="85" y="41" width="144" height="128" opacity="1" fill="none" stroke="#000000"/>
 <text x="125" y="51" dy="0.76em" text-anchor="start" font-family="Fira Code" font-size="10.483870967741936" opacity="1" fill="#000000">
@@ -426,5 +426,5 @@ SccMap
 <polyline fill="none" opacity="1" stroke="#FF00FF" stroke-width="1" points="95,105 115,105 "/>
 <polyline fill="none" opacity="1" stroke="#00FFFF" stroke-width="1" points="95,121 115,121 "/>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="95,137 115,137 "/>
-<polyline fill="none" opacity="1" stroke="#FFFF00" stroke-width="1" points="95,154 115,154 "/>
+<polyline fill="none" opacity="1" stroke="#FFC107" stroke-width="1" points="95,154 115,154 "/>
 </svg>
